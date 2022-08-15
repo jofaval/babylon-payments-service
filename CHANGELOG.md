@@ -16,3 +16,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Added base (very basic) README and LICENSE (GNU).
 - Added base Changelog
 - Added base Dockerfile
+- Github Actions to automatically update the parent's repository
